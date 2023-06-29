@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main() {
     char Name[50] ;
     int  Age = 0 ;
